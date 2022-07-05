@@ -49,11 +49,7 @@ Note that you can run the scripts based on the dataset mentioned in original pap
   ```
 
 
-  ```bash
-  # run training example
-
-  # run evaluation example
-  ```
+  
 
 - running on CPU
 
